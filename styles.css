@@ -28,7 +28,7 @@ body{
 }
 
 .speaker-form-header h1{
-    font-size: 30px;
+    font-size: 50px;
     margin-bottom: 20px;
 }
 
@@ -36,7 +36,7 @@ body{
     background-color: #FFFFFF;
     border: 1px solid #c1beba;
     border-radius: 3px;
-
+    font-size: 15px;
     width: 80%;
     padding: 50px;
     margin: 0 0 40px 0;
@@ -90,7 +90,7 @@ body{
 
 .form-row button {
     margin-top: 30px;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
 
     color:#FFFFFF;
@@ -99,7 +99,7 @@ body{
     border: none;
     border-radius: 60px;
 
-    padding: 10px 90px;
+    padding: 13px 90px;
     cursor: pointer;
 
 }
